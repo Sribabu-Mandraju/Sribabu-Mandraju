@@ -1,59 +1,65 @@
+Here’s a refined version of your **README.md** with a **tabular layout for projects**, improved structure, and a polished design:
+
+---
+
 # **Full Stack & Web3 Developer | Smart Contract Engineer**  
 ### **Welcome to My GitHub Profile!** 👋  
 
-I'm a passionate **Full Stack Developer** with expertise in **Web3, Blockchain, and Smart Contract Engineering**. I build scalable, decentralized applications (dApps) and robust web solutions with modern technologies.  
+I'm a **Full Stack & Web3 Developer** specializing in **decentralized applications (dApps), smart contracts, and scalable web solutions**. I combine modern web development with blockchain technology to build secure, user-centric applications.  
 
-🔹 **Full Stack Development** (React, Node.js, Express, MongoDB, PostgreSQL)  
-🔹 **Blockchain & Web3** (Solidity, Ethereum, Hardhat, Truffle, Ethers.js, Web3.js)  
-🔹 **Smart Contracts** (DeFi, NFTs, DAOs, Token Standards)  
-🔹 **DevOps & Cloud** (AWS, Docker, CI/CD)  
+🔹 **Full Stack:** React, Next.js, Node.js, Express, MongoDB  
+🔹 **Blockchain:** Solidity, Ethereum, Hardhat, Ethers.js, Web3.js  
+🔹 **Web3:** DeFi, NFTs, DAOs, Smart Contract Auditing  
+
+---
 
 ## 🚀 **Featured Projects**  
 
-### **1. Decentralized Exchange (DEX)**  
-📌 **Tech Stack:** Solidity, Hardhat, React, Ethers.js  
-🔗 **Live Demo:** [dex-dapp.vercel.app](https://dex-dapp.vercel.app)  
-📂 **Repo:** [github.com/username/dex-dapp](https://github.com/username/dex-dapp)  
-📝 **Description:** A fully decentralized exchange supporting ERC-20 token swaps with liquidity pools.  
+| Project               | Tech Stack                     | Live Demo                          | Source Code                       | Description                                                                 |
+|-----------------------|--------------------------------|------------------------------------|-----------------------------------|-----------------------------------------------------------------------------|
+| **Decentralized Exchange (DEX)** | Solidity, Hardhat, React, Ethers.js | [Live Demo](https://dex-dapp.vercel.app) | [GitHub](https://github.com/username/dex-dapp) | A fully decentralized exchange for ERC-20 token swaps with liquidity pools. |
+| **NFT Marketplace**   | Solidity, IPFS, Next.js, Moralis | [Live Demo](https://nft-marketplace.web.app) | [GitHub](https://github.com/username/nft-marketplace) | Mint, buy, and sell NFTs with blockchain-based transactions.               |
+| **DAO Governance Platform** | Solidity, Hardhat, The Graph, React | [Live Demo](https://dao-governance.vercel.app) | [GitHub](https://github.com/username/dao-platform) | A DAO for decentralized voting and proposal management.                    |
 
-### **2. NFT Marketplace**  
-📌 **Tech Stack:** Solidity, IPFS, Next.js, Moralis  
-🔗 **Live Demo:** [nft-marketplace.web.app](https://nft-marketplace.web.app)  
-📂 **Repo:** [github.com/username/nft-marketplace](https://github.com/username/nft-marketplace)  
-📝 **Description:** Mint, buy, and sell NFTs with secure blockchain transactions.  
+*(Replace placeholder links with your actual project URLs.)*
 
-### **3. DAO Governance Platform**  
-📌 **Tech Stack:** Solidity, Hardhat, React, The Graph  
-🔗 **Live Demo:** [dao-governance.vercel.app](https://dao-governance.vercel.app)  
-📂 **Repo:** [github.com/username/dao-platform](https://github.com/username/dao-platform)  
-📝 **Description:** A decentralized autonomous organization (DAO) for community proposals and voting.  
+---
 
-## 🛠 **Technologies & Tools**  
+## 🛠 **Tech Stack**  
 
 ### **Blockchain & Web3**  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)  
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)  
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Backend & DevOps**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
 
 ## 📈 **GitHub Stats**  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sribabu-Mandraju&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sribabu-Mandraju&layout=compact&theme=radical&hide_border=true)  
 
-## 🤝 **Let's Connect!**  
+---
 
-💼 **LinkedIn:** [linkedin.com/in/Sribabu-Mandraju](https://www.linkedin.com/in/sribabu-mandraju-590524233/) 
-📧 **Email:** sribabumandraju@gmail.com
+## 🤝 **Let’s Collaborate!**  
+
+💼 **LinkedIn:** [Sribabu Mandraju](https://www.linkedin.com/in/sribabu-mandraju-590524233/)  
+📧 **Email:** [sribabumandraju@gmail.com](mailto:sribabumandraju@gmail.com)  
+🌐 **Portfolio:** [Your Portfolio Link](#) *(optional)*  
+
+---
+
+⭐ **Star my repositories if you find them useful!** ⭐  
+
 
