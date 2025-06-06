@@ -1,7 +1,3 @@
-Here’s a refined version of your **README.md** with a **tabular layout for projects**, improved structure, and a polished design:
-
----
-
 # **Full Stack & Web3 Developer | Smart Contract Engineer**  
 ### **Welcome to My GitHub Profile!** 👋  
 
