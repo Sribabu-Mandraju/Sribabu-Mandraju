@@ -17,9 +17,9 @@ I'm a **Full Stack & Web3 Developer** specializing in **decentralized applicatio
 
 | Project               | Tech Stack                     | Live Demo                          | Source Code                       | Description                                                                 |
 |-----------------------|--------------------------------|------------------------------------|-----------------------------------|-----------------------------------------------------------------------------|
-| **Decentralized Exchange (DEX)** | Solidity, Hardhat, React, Ethers.js | [Live Demo](https://dex-dapp.vercel.app) | [GitHub](https://github.com/username/dex-dapp) | A fully decentralized exchange for ERC-20 token swaps with liquidity pools. |
-| **NFT Marketplace**   | Solidity, IPFS, Next.js, Moralis | [Live Demo](https://nft-marketplace.web.app) | [GitHub](https://github.com/username/nft-marketplace) | Mint, buy, and sell NFTs with blockchain-based transactions.               |
-| **DAO Governance Platform** | Solidity, Hardhat, The Graph, React | [Live Demo](https://dao-governance.vercel.app) | [GitHub](https://github.com/username/dao-platform) | A DAO for decentralized voting and proposal management.                    |
+| **Karanyasetu** | Solidity, Hardhat, React, Ethers.js | [Live Demo]((https://karunyasethu.vercel.app/)) | [GitHub](https://github.com/Sribabu-Mandraju/KarunyaSetu/)| A fully decentralized exchange for ERC-20 token swaps with liquidity pools. |
+| **Futuax**   | Solidity, IPFS, Next.js, Moralis | [Live Demo](https://future-x-ulpg.vercel.app/) | [GitHub](https://github.com/Sribabu-Mandraju/futurax_defi) | Mint, buy, and sell NFTs with blockchain-based transactions.               |
+| **NFT Market Place** | Solidity, Foundry, React | [Live Demo](https://lock-nft-frontend.vercel.app/) | [GitHub](https://github.com/Sribabu-Mandraju/lockNft_frontend)| A DAO for decentralized voting and proposal management.                    |
 
 *(Replace placeholder links with your actual project URLs.)*
 
