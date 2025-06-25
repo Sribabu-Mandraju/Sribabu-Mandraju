@@ -17,7 +17,7 @@ I'm a **Full Stack & Web3 Developer** specializing in **decentralized applicatio
 | **Futuax**   | Solidity, IPFS, Next.js, Moralis | [Live Demo](https://future-x-ulpg.vercel.app/) | [GitHub](https://github.com/Sribabu-Mandraju/futurax_defi) | Mint, buy, and sell NFTs with blockchain-based transactions.               |
 | **NFT Market Place** | Solidity, Foundry, React | [Live Demo](https://lock-nft-frontend.vercel.app/) | [GitHub](https://github.com/Sribabu-Mandraju/lockNft_frontend)| A DAO for decentralized voting and proposal management.                    |
 
-*(Replace placeholder links with your actual project URLs.)*
+*
 
 ---
 
