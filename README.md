@@ -52,7 +52,7 @@ I'm a **Full Stack & Web3 Developer** specializing in **decentralized applicatio
 
 💼 **LinkedIn:** [Sribabu Mandraju](https://www.linkedin.com/in/sribabu-mandraju-590524233/)  
 📧 **Email:** [sribabumandraju@gmail.com](mailto:sribabumandraju@gmail.com)  
-🌐 **Portfolio:** [Your Portfolio Link](https://portfolio-35c3.vercel.app/) *(optional)*  
+🌐 **Portfolio:** [Your Portfolio Link](https://portfolio-35c3.vercel.app/) 
 
 ---
 
