@@ -24,7 +24,6 @@ I'm a **Full Stack & Web3 Developer** and **Smart Contract Engineer** passionate
 </p>
 
 ---
-
 ## 🛠 **Tech Stack**
 
 ### Blockchain & Web3
@@ -48,15 +47,25 @@ I'm a **Full Stack & Web3 Developer** and **Smart Contract Engineer** passionate
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### Skill Progress
-<p align="center">
-  <img src="https://progress-bar.dev/95/?title=Solidity&width=200" alt="Solidity Progress" />
-  <img src="https://progress-bar.dev/90/?title=React&width=200" alt="React Progress" />
-  <img src="https://progress-bar.dev/85/?title=Node.js&width=200" alt="Node.js Progress" />
-</p>
-
 ---
 
+## 📈 **Skill Progress**
+
+Explore my proficiency in key technologies with detailed progress reports:
+
+- 📄 **[Solidity Progress](https://github.com/Sribabu-Mandraju/Solidity_Progress.pdf)**  
+  <img src="https://img.shields.io/badge/Solidity-75%25-brightgreen?style=flat-square" alt="Solidity Skill" />
+- 📄 **[React Progress](https://github.com/Sribabu-Mandraju/React_Progress.pdf)**  
+  <img src="https://img.shields.io/badge/React-70%25-blueviolet?style=flat-square" alt="React Skill" />
+- 📄 **[Node.js Progress](https://github.com/Sribabu-Mandraju/Nodejs_Progress.pdf)**  
+  <img src="https://img.shields.io/badge/Node.js-85%25-green?style=flat-square" alt="Node.js Skill" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoZZ1Y6v7qJ3W/giphy.gif" alt="Blockchain Network GIF" width="300" />
+</p>
+
+
+---
 ## 🚀 **Featured Projects**
 
 | Project | Description | Tech Stack | Live Demo | Source Code |
