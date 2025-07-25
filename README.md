@@ -20,9 +20,6 @@ I'm a **Full Stack & Web3 Developer** and **Smart Contract Engineer** passionate
 - 💡 **Focus**: Delivering trustless systems with seamless user experiences.
 - 🌍 **Mission**: Empowering users through decentralized, accessible tech.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoZZ1Y6v7qJ3W/giphy.gif" alt="Blockchain Network GIF" width="300" />
-</p>
 
 ---
 ## 🛠 **Tech Stack**
@@ -110,8 +107,5 @@ Explore my proficiency in key technologies with detailed progress reports:
 
 I'm excited to collaborate on **Web3**, **DeFi**, or **full-stack projects**. Whether it's a groundbreaking dApp or a scalable web app, let's create something extraordinary together! 💻
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bu8sRnYp0kAvaA0/giphy.gif" alt="Blockchain GIF" width="200" />
-</p>
 
 ⭐ **Star my repos if they spark your interest!** ⭐
