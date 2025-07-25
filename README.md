@@ -20,7 +20,7 @@ I'm a **Full Stack & Web3 Developer** and **Smart Contract Engineer** passionate
 - 🌍 **Mission**: Empowering users through decentralized, accessible tech.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="300" />
+  <img src="https://media.giphy.com/media/xT9IgzoZZ1Y6v7qJ3W/giphy.gif" alt="Blockchain Network GIF" width="300" />
 </p>
 
 ---
